@@ -6,6 +6,32 @@
 
 # Sample Demos
 
+## Demo: Similar Bitrate
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)
+
+## Demo: Similar Quality
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236777741-ed7741bc-ac99-4bf5-a9d3-9369e938c932.mp4)](https://user-images.githubusercontent.com/80899378/236777741-ed7741bc-ac99-4bf5-a9d3-9369e938c932.mp4)
+
+## Demo: Animating Virtual Faces
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)
+
+
+## Demo: Interacting with Facial Expression and Head Posture
+
+### Eye Blinking
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839259-dde854a8-587c-415b-884b-6ab607356220.mp4)](https://user-images.githubusercontent.com/80899378/236839259-dde854a8-587c-415b-884b-6ab607356220.mp4)
+
+### Mouth Motion
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839296-259604c0-6806-4b07-a2ff-98fcdfc2f374.mp4)](https://user-images.githubusercontent.com/80899378/236839296-259604c0-6806-4b07-a2ff-98fcdfc2f374.mp4)
+
+### Head Rotation
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839322-eabc7766-0b7b-4f21-a450-48ec8bdaf9f3.mp4)](https://user-images.githubusercontent.com/80899378/236839322-eabc7766-0b7b-4f21-a450-48ec8bdaf9f3.mp4)
+
+### Head Zoom
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839332-5863fbdf-ff13-4fb5-9812-7d0033fe6d2b.mp4)](https://user-images.githubusercontent.com/80899378/236839332-5863fbdf-ff13-4fb5-9812-7d0033fe6d2b.mp4)
+
+
+
 # Rate-distortion Performance
 
 # Implementation Codes

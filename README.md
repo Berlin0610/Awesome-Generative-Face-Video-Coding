@@ -55,11 +55,14 @@
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (JVET October 2023) [**JVET-AF0234**] **AHG9: Common text for proposed generative face video SEI message** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang, Sean McCarthy, Peng Yin, Guan-Ming Su, Anustup Kuma Choudhury, Walt Husak, Gary J. Sullivan [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13497)
-- (JVET October 2023) [**JVET-AF0146**] **AHG9: On Face Motion Information for Generative Face Video** H.-B. Teo, J.-Y Thong, K. Jayashree, C.-S. Lim, K. Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13404)
+- (JVET October 2023) [**JVET-AF0146**] **AHG9: On Face Motion Information for Generative Face Video** Han Boon Teo, Jing Yuan Thong, Karlekar Jayashree, Chong Soon Lim, Kiyofumi Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13404)
 - (JVET October 2023) [**JVET-AF0048**] **A Study on Decoder Interoperability of Generative Face Video Compression** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13296)
 - (JVET July 2023) [**JVET-AE0280**] **AHG9: Common text for proposed generative face video SEI message** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang, Sean McCarthy, Peng Yin, Guan-Ming Su, Anustup Kuma Choudhury, Walt Husak [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13243)
-- (JVET July 2023) [**JVET-AE0088**] **AHG9: A study on Generative Face Video SEI Message** H.-B. Teo, J.-Y Thong, K. Jayashree, C.-S. Lim, K. Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13036)
+- (JVET July 2023) [**JVET-AE0088**] **AHG9: A study on Generative Face Video SEI Message** Han Boon Teo, Jing Yuan Thong, Karlekar Jayashree, Chong Soon Lim, Kiyofumi Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13036)
 - (JVET July 2023) [**JVET-AE0083**] **AHG9: Common SEI Message of Generative Face Video** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13031)
 - (JVET July 2023) [**JVET-AE0080**] **AHG9: Generative Face Video SEI message** Sean McCarthy, Peng Yin, Guan-Ming Su, Anustup Kuma Choudhury, Walt Husak [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13028)
 - (JVET April 2023) [**JVET-AD0051**] **AHG9: Common SEI Message of Generative Face Video** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=12598)
 - (JVET January 2023) [**JVET-AC0088**] **AHG9: Generative Face Video SEI Message** Bolin Chen, Jie Chen, Shurun Wang, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=12290)
+
+
+

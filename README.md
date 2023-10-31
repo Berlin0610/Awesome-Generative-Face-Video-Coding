@@ -4,8 +4,6 @@
 ## This repository contains some sample demos, rate-distortion performance, implementation codes and technical summary.
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression) ![GitHub stars](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression.svg?color=red) 
-
 # Sample Demos
 
 # Rate-distortion Performance

@@ -20,7 +20,9 @@
 
 ## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 
-- (ICIP 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko and Stéphane Lathuilière and Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
+- (ICIP 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
+- (arXiv 2023) **Interactive Face Video Coding: A Generative Compression Framework** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shurun, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2302.09919.pdf)
+- (TCSVT 2023) **Compact Temporal Trajectory Representation for Talking Face Video Compression** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shiqi, Ye Yan [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109861)
 
 
 ---

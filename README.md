@@ -1,9 +1,6 @@
 # <p align=center> Awesome 🎉Generative Face Video Compression </p>
 <!--# <p align=center>`# Awesome 🎉Deep Learning Based Video Compression🎉`</p>-->
 
-## This repository contains some sample demos, rate-distortion performance, implementation codes and technical summary.
-
-
 # Sample Demos
 
 # Rate-distortion Performance

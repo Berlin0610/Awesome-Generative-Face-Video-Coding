@@ -1,5 +1,8 @@
 # <p align=center> Awesome 🎉Generative Face Video Compression </p>
-<!--# <p align=center>`# Awesome 🎉Deep Learning Based Video Compression🎉`</p>-->
+<!--# <p align=center>`# Awesome 🎉Generative Face Video Compression🎉`</p>-->
+
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![GitHub stars](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression.svg?color=red) 
 
 # Sample Demos
 

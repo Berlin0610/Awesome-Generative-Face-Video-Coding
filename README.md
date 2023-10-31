@@ -21,6 +21,9 @@
 
 # Rate-distortion Performance
 
+<img width="1100" alt="RDperformance" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/d361e2ea-ef65-4a97-b21f-8b11124a4a18">
+
+
 # Implementation Codes
 We optimize the implemention codes of three representative GFVC works, i.e., [FOMM](https://github.com/AliaksandrSiarohin/first-order-model), [CFTE](https://github.com/Berlin0610/CFTE_DCC2022) and [FV2V](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis), and further provide the unified codes regarding the encoder and decoder processes.
 

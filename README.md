@@ -54,7 +54,10 @@
 
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)
-- (JEVT July 2023) [**JVET-AE0280 **] **AHG9: Common text for proposed generative face video SEI message** Chen Bolin, Chen Jie, Ye Yan, Wang Shiqi, S. McCarthy, P. Yin, G.-M. Su, A. K. Choudhury, W. Husak [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13243)
+- (JEVT October 2023) [**JVET-AF0234**] **AHG9: Common text for proposed generative face video SEI message** Chen Bolin, Chen Jie, Ye Yan, Wang Shiqi, S. McCarthy, P. Yin, G.-M. Su, A. K. Choudhury, W. Husak, G. J. Sullivan [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13497)
+- (JEVT October 2023) [**JVET-AF0146**] **AHG9: On Face Motion Information for Generative Face Video** H.-B. Teo, J.-Y Thong, K. Jayashree, C.-S. Lim, K. Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13404)
+- (JEVT October 2023) [**JVET-AF0048**] **A Study on Decoder Interoperability of Generative Face Video Compression** Chen Bolin, Yin Shanzhi, Chen Jie, Ye Yan, Wang Shiqi [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13296)
+- (JEVT July 2023) [**JVET-AE0280**] **AHG9: Common text for proposed generative face video SEI message** Chen Bolin, Chen Jie, Ye Yan, Wang Shiqi, S. McCarthy, P. Yin, G.-M. Su, A. K. Choudhury, W. Husak [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13243)
 - (JEVT July 2023) [**JVET-AE0088**] **AHG9: A study on Generative Face Video SEI Message** H.-B. Teo, J.-Y Thong, K. Jayashree, C.-S. Lim, K. Abe [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13036)
 - (JEVT July 2023) [**JVET-AE0083**] **AHG9: Common SEI Message of Generative Face Video** Chen Bolin, Chen Jie, Ye Yan, Wang Shiqi [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13031)
 - (JEVT July 2023) [**JVET-AE0080**] **AHG9: Generative Face Video SEI message** S. McCarthy, P. Yin, G.-M. Su, A. K. Choudhury, W. Husak [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13028)

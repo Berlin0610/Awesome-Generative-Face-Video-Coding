@@ -15,18 +15,18 @@
 
 
 
-- [2023](#2023)
-- [2022](#2022)
-- [2021](#2021)
-- [2019](#2019)
+- [2023](#Paper2023)
+- [2022](#Paper2022)
+- [2021](#Paper2021)
+- [2019](#Paper2019)
 ---
-## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
+## <span id="Paper2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (ICIP 2023) [**RDAC**] **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
 - (arXiv 2023) [**IFVC**] **Interactive Face Video Coding: A Generative Compression Framework** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shurun, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2302.09919.pdf)
 - (TCSVT 2023) [**CTTR**] **Compact Temporal Trajectory Representation for Talking Face Video Compression** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shiqi, Ye Yan [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109861)
   
 ---
-## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
+## <span id="Paper2022">✔2022 </span> [       «🎯Back To Top»       ](#)
 - (ICME 2022) [**Bi-Net**] **Generative Compression for Face Video: A Hybrid Scheme** Anni Tang, Yan Huang, Jun Ling, Zhiyu Zhang, Yiwei Zhang, Rong Xie, Li Song [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859867)
 - (BMVC 2022) [**CVC_STR**] **Compressing Video Calls using Synthetic Talking Heads** Madhav Agarwal, Anchit Gupta, Rudrabha Mukhopadhyay, Vinay P. Namboodiri, C V Jawahar [paper](https://arxiv.org/pdf/2210.03692.pdf)
 - (ICIP 2022) [**HDAC**] **A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://arxiv.org/pdf/2207.13530.pdf)
@@ -37,21 +37,21 @@
 - (DCC 2022) [**SNRVC**] **Semantic Neural Rendering-based Video Coding: Towards Ultra-Low Bitrate Video Conferencing** Hu Yujie, Xu Youmin, Chang Jianhui, Zhang Jian [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810784)
 
 ---
-## <span id="2021">✔2021 </span> [       «🎯Back To Top»       ](#)
+## <span id="Paper2021">✔2021 </span> [       «🎯Back To Top»       ](#)
 - (CVPRW 2021) [**Mob M-SPADE**] **Low Bandwidth Video-Chat Compression Using Deep Generative Models** Maxime Oquab, Pierre Stock, Daniel Haziza, Tao Xu, Peizhao Zhang, Onur Celebi, Yana Hasson, Patrick Labatut, Bobo Bose-Kolanu, Thibault Peyronel, Camille Couprie [paper](https://openaccess.thecvf.com/content/CVPR2021W/MAI/papers/Oquab_Low_Bandwidth_Video-Chat_Compression_Using_Deep_Generative_Models_CVPRW_2021_paper.pdf)
 - (CVPR 2021) [**Face_vid2vid**] **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing** Wang Ting-Chun, Mallya Arun, Liu Ming-Yu [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf)
 - (ICMEW 2021) [**VSBNet**] **A Generative Compression Framework For Low Bandwidth Video Conference** Feng Dahu, Huang Yan, Zhang Yiwei, Ling Jun, Tang Anni, Song Li [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9455985)
 - (ICASSP 2021) [**DAC**] **Ultra-Low Bitrate Video Conferencing Using Deep Image Animation** Goluck Konuko, Giuseppe Valenzise, Stéphane Lathuilière [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414731)
 
 ---
-## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
+## <span id="Paper2019">✔2019 </span> [       «🎯Back To Top»       ](#)
 - (NeurIPS 2021) [**FOMM**] **First Order Motion Model for Image Animation** Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)
 
 
 # Standardization Efforts
 
-- [2023](#2023)
+- [2023](#Proposal2023)
 
 ---
-## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
+## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (JVET 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)

@@ -74,5 +74,5 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 # Additional Notes
 
-### The DCC 2021 keynote video regarding [Generative Face Video Compression: Promises and Challenges](https://www.youtube.com/watch?v=7en3YYT1QfU) was presented by Dr. Yan Ye.
-### The presentation slides from Dr. Yan Ye can be found in [DIS talk: Face video compression with generative networks](https://github.com/Berlin0610/DIS_talk-Yan_Ye-Face_video_compression_with_generative_networks/blob/main/DIS%20presentation%20-%20May%203%2C%202023.pdf).
+- The DCC 2021 keynote video regarding [Generative Face Video Compression: Promises and Challenges](https://www.youtube.com/watch?v=7en3YYT1QfU) was presented by Dr. Yan Ye.
+- The presentation slides from Dr. Yan Ye can be found in [DIS talk: Face video compression with generative networks](https://github.com/Berlin0610/DIS_talk-Yan_Ye-Face_video_compression_with_generative_networks/blob/main/DIS%20presentation%20-%20May%203%2C%202023.pdf).

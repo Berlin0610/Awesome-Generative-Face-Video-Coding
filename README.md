@@ -7,7 +7,7 @@
 # Sample Demos
 
 ## Demo: Similar Bitrate &&  Similar Quality
-[![IMAGE ALT TEXT]()]()
+[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/9284ffa6-a4d9-4b8c-9e04-862fb1effdbe)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/9284ffa6-a4d9-4b8c-9e04-862fb1effdbe)
 
 
 ## Demo: Animating Virtual Faces
@@ -15,8 +15,7 @@
 
 
 ## Demo: Interacting with Facial Expression and Head Posture
-[![IMAGE ALT TEXT]()]()
-
+[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/57080b26-5106-4cd5-85ea-8f048d0154a2)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/57080b26-5106-4cd5-85ea-8f048d0154a2)
 
 
 

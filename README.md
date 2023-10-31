@@ -47,3 +47,11 @@
 ## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
 - (NeurIPS 2021) [**FOMM**] **First Order Motion Model for Image Animation** Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)
 
+
+# Standardization Efforts
+
+- [2023](#2023)
+
+---
+## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
+- (JVET 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)

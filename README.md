@@ -1,26 +1,24 @@
 # <p align=center> Awesome 🎉Generative Face Video Compression </p>
 
-<img width="1200" height="350" alt="GFVC_framework" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/2e356fe5-7235-4a94-add5-9102ea6771cd">
+<img width="1200" height="350" alt="GFVC_framework" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/9d68cc66-f86b-4e79-95e8-1658d85f1628">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![GitHub stars](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression.svg?color=red) 
 
 # Sample Demos
-
 ## Demo: Similar Bitrate &&  Similar Quality
-[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/57080b26-5106-4cd5-85ea-8f048d0154a2)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/57080b26-5106-4cd5-85ea-8f048d0154a2)
+[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/e5bbc369-dd18-4294-bfc2-9918baa1eac3)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/e5bbc369-dd18-4294-bfc2-9918baa1eac3)
 
 ## Demo: Animating Virtual Faces
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)
 
-
 ## Demo: Interacting with Facial Expression and Head Posture
-[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/9284ffa6-a4d9-4b8c-9e04-862fb1effdbe)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/9284ffa6-a4d9-4b8c-9e04-862fb1effdbe)
+[![IMAGE ALT TEXT](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/db59d119-0296-49ea-8208-91a2770be04d)](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/db59d119-0296-49ea-8208-91a2770be04d)
 
 
 
 # Rate-distortion Performance
 
-<img width="1100" alt="RDperformance" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/d361e2ea-ef65-4a97-b21f-8b11124a4a18">
+<img width="1100" alt="RDperformance" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/76aa7da5-62da-4286-a754-ab9368e42341">
 
 
 # Implementation Codes

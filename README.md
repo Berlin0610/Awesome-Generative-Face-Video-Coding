@@ -54,4 +54,4 @@
 
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)
-- (JVET 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
+- (JEVT January 2023) [**JVET-AC0088**] **AHG9: Generative Face Video SEI Message** Chen Bolin, Chen Jie, Wang Shurun, Ye Yan, Wang Shiqi [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=12290)

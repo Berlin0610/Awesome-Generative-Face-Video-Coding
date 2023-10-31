@@ -42,3 +42,13 @@
 ---
 
 ## <span id="2021">✔2021 </span> [       «🎯Back To Top»       ](#)
+- (CVPRW 2021) [**Mob M-SPADE**] **Low Bandwidth Video-Chat Compression Using Deep Generative Models** Maxime Oquab, Pierre Stock, Daniel Haziza, Tao Xu, Peizhao Zhang, Onur Celebi, Yana Hasson, Patrick Labatut, Bobo Bose-Kolanu, Thibault Peyronel, Camille Couprie [paper](https://openaccess.thecvf.com/content/CVPR2021W/MAI/papers/Oquab_Low_Bandwidth_Video-Chat_Compression_Using_Deep_Generative_Models_CVPRW_2021_paper.pdf)
+- (CVPR 2021) [**Face_vid2vid**] **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing** Wang Ting-Chun, Mallya Arun, Liu Ming-Yu [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf)
+- (ICMEW 2021) [**VSBNet**] **A Generative Compression Framework For Low Bandwidth Video Conference** Feng Dahu, Huang Yan, Zhang Yiwei, Ling Jun, Tang Anni, Song Li [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9455985)
+- (ICASSP 2021) [**DAC**] **Ultra-Low Bitrate Video Conferencing Using Deep Image Animation** Goluck Konuko, Giuseppe Valenzise, Stéphane Lathuilière [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414731)
+
+---
+
+## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
+- (NeurIPS 2021) [**FOMM**] **First Order Motion Model for Image Animation** Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)
+

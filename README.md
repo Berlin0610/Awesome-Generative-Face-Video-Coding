@@ -1,5 +1,4 @@
 # <p align=center> Awesome 🎉Generative Face Video Compression </p>
-<!--# <p align=center>`# Awesome 🎉Generative Face Video Compression🎉`</p>-->
 
 <img width="750" alt="GFVC_framework" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/2e356fe5-7235-4a94-add5-9102ea6771cd">
 

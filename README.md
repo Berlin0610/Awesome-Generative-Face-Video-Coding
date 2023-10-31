@@ -20,7 +20,7 @@
 
 ## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 
-- (ICASSP 2023) **LCCM-VC: LEARNED CONDITIONAL CODING MODES FOR VIDEO CODING** Hadi Hadizadeh and Ivan V. Bajic [paper](https://arxiv.org/pdf/2210.15883.pdf)
+- (ICIP 2023) **Predictive Coding for Animation-Based Video Compression** Goluck Konuko and Stéphane Lathuilière and Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
 
 
 ---

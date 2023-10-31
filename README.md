@@ -1,6 +1,6 @@
 # <p align=center> Awesome 🎉Generative Face Video Compression </p>
 
-<img width="1000" height="300" alt="GFVC_framework" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/2e356fe5-7235-4a94-add5-9102ea6771cd">
+<img width="1200" height="350" alt="GFVC_framework" src="https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression/assets/80899378/2e356fe5-7235-4a94-add5-9102ea6771cd">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![GitHub stars](https://github.com/Berlin0610/Awesome-Generative-Face-Video-Compression.svg?color=red) 
 

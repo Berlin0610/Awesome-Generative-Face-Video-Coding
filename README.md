@@ -15,12 +15,6 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 # Technical Summary
 
-
-
-- [2023](#Paper2023)
-- [2022](#Paper2022)
-- [2021](#Paper2021)
-- [2019](#Paper2019)
 ---
 ## <span id="Paper2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (ICIP 2023) [**RDAC**] **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
@@ -51,8 +45,6 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 
 # Standardization Efforts
-
-- [2023](#Proposal2023)
 
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)

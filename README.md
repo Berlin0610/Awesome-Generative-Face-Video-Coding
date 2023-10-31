@@ -17,18 +17,8 @@
 
 
 ## Demo: Interacting with Facial Expression and Head Posture
+[![IMAGE ALT TEXT]()]()
 
-### Eye Blinking
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839259-dde854a8-587c-415b-884b-6ab607356220.mp4)](https://user-images.githubusercontent.com/80899378/236839259-dde854a8-587c-415b-884b-6ab607356220.mp4)
-
-### Mouth Motion
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839296-259604c0-6806-4b07-a2ff-98fcdfc2f374.mp4)](https://user-images.githubusercontent.com/80899378/236839296-259604c0-6806-4b07-a2ff-98fcdfc2f374.mp4)
-
-### Head Rotation
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839322-eabc7766-0b7b-4f21-a450-48ec8bdaf9f3.mp4)](https://user-images.githubusercontent.com/80899378/236839322-eabc7766-0b7b-4f21-a450-48ec8bdaf9f3.mp4)
-
-### Head Zoom
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236839332-5863fbdf-ff13-4fb5-9812-7d0033fe6d2b.mp4)](https://user-images.githubusercontent.com/80899378/236839332-5863fbdf-ff13-4fb5-9812-7d0033fe6d2b.mp4)
 
 
 

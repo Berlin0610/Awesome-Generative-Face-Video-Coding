@@ -15,4 +15,9 @@ In details, we provide the specific introductions about the hyper parameters and
 -	"--Iframe_QP": the quantization parameter for encoding the base picture
 -	"--Iframe_format": the coded color format for the base picture, e.g., YUV 420 or RGB 444
 
+# Acknowledgement
+We really appreciate all authors for making their codes available to public.
+- The GFVC software package includes [FOMM](https://github.com/AliaksandrSiarohin/first-order-model), [CFTE](https://github.com/Berlin0610/CFTE_DCC2022) and [FV2V](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis). 
+- The testing dataset is sourced and preprocessed from [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) and [CFVQA](https://github.com/Yixuan423/Compressed-Face-Videos-Quality-Assessment).
+- The quality assessment metrics include [DISTS](https://github.com/dingkeyan93/DISTS) and [LPIPS](https://github.com/richzhang/PerceptualSimilarity).
 

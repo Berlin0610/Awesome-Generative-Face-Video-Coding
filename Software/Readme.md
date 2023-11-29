@@ -32,6 +32,13 @@ In the folder `evaluate`, we further provide the codes to calculate the rate and
 -	`multiMetric.py`: a unified code including DISTS/LPIPS/PSNR/SSIM
 -	`getbits.py`: calculate the coding bits of base picture (VVC bitstream) and feature parameter (feature bitstream)
 
+
+## Anchor Comparison (VTM 22.2)
+
+VTM 22.2 is used and the test is conducted under low-delay B (LDB) configuration. And we provide the batch execution code to encode these sequences and obtain the coresponding rate-distortion performance. The code can be seen in folder `VVC_anchor`.
+
+
+
 # Acknowledgement
 We really appreciate all authors for making their codes available to public.
 - The GFVC software package includes [FOMM](https://github.com/AliaksandrSiarohin/first-order-model), [CFTE](https://github.com/Berlin0610/CFTE_DCC2022) and [FV2V](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis). 

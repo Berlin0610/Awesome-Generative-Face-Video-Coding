@@ -7,13 +7,13 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 
 In details, we provide the specific introductions about the hyper parameters and their definitions in the GFVC software tools as follows,
--	"--original_seq": the path to the input test sequence
--	"--encoding_frames": the number of frames to be encoded
--	"--seq_width": "the width of encoding frames
--	"--seq_height": the height of encoding frames
--	"--quantization_factor": the quantization factor for the type conversion (i.e., from float-type to int-type) for the residual of feature parameter 
--	"--Iframe_QP": the quantization parameter for encoding the base picture
--	"--Iframe_format": the coded color format for the base picture, e.g., YUV 420 or RGB 444
+-	`--original_seq`: the path to the input test sequence
+-	`--encoding_frames`: the number of frames to be encoded
+-	`--seq_width`: "the width of encoding frames
+-	`--seq_height`: the height of encoding frames
+-	`--quantization_factor`: the quantization factor for the type conversion (i.e., from float-type to int-type) for the residual of feature parameter 
+-	`--Iframe_QP`: the quantization parameter for encoding the base picture
+-	`--Iframe_format`: the coded color format for the base picture, e.g., YUV 420 or RGB 444
 
 ## Encoding/Decoding Porcesses
 

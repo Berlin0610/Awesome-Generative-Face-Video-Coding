@@ -21,8 +21,8 @@ In details, we provide the specific introductions about the hyper parameters and
 ## Rate Calculation and Distortion Evaluation
 
 In the folder `evaluate`, we further provide the codes to calculate the rate and distortion.
--	"multiMetric.py": a unified code including DISTS/LPIPS/PSNR/SSIM
--	"getbits.py": calculate the coding bits of base picture (VVC bitstream) and feature parameter (feature bitstream)
+-	`multiMetric.py`: a unified code including DISTS/LPIPS/PSNR/SSIM
+-	`getbits.py`: calculate the coding bits of base picture (VVC bitstream) and feature parameter (feature bitstream)
 
 # Acknowledgement
 We really appreciate all authors for making their codes available to public.

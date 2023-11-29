@@ -35,7 +35,7 @@ In the folder `evaluate`, we further provide the codes to calculate the rate and
 
 ## Anchor Comparison (VTM 22.2)
 
-VTM 22.2 is used and the test is conducted under low-delay B (LDB) configuration. And we provide the batch execution code to encode these sequences and obtain the coresponding rate-distortion performance. The code can be seen in folder `VVC_anchor`.
+VTM 22.2 is used and the test is conducted under low-delay B (LDB) configuration. And we provide the batch execution code to encode these sequences and obtain the coresponding rate-distortion performance. The codes can be seen in folder `VVC_anchor`. You can execute `RUN_Encode.py` and `RUN_Decode.py`.
 
 
 

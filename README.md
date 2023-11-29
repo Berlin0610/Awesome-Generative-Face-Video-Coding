@@ -77,3 +77,10 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 - The DCC 2021 keynote video regarding [Generative Face Video Compression: Promises and Challenges](https://www.youtube.com/watch?v=7en3YYT1QfU) was presented by Dr. Yan Ye.
 - The presentation slides from Dr. Yan Ye can be found in [DIS talk: Face video compression with generative networks](https://github.com/Berlin0610/DIS_talk-Yan_Ye-Face_video_compression_with_generative_networks/blob/main/DIS%20presentation%20-%20May%203%2C%202023.pdf).
+
+
+# Acknowledgement
+
+The GFVC software package includes [FOMM](https://github.com/AliaksandrSiarohin/first-order-model), [CFTE](https://github.com/Berlin0610/CFTE_DCC2022) and [FV2V](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis). We really appreciate all authors for making their codes available to public.
+
+The testing dataset is sourced and preprocessed from [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) and [CFVQA](https://github.com/Yixuan423/Compressed-Face-Videos-Quality-Assessment).

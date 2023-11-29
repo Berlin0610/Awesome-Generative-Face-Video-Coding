@@ -16,6 +16,14 @@ In details, we provide the specific introductions about the hyper parameters and
 -	`--Iframe_format`: the coded color format for the base picture, e.g., YUV 420 or RGB 444
 
 ## Encoding/Decoding Porcesses
+The platform details can be described as follows,
+-	The pretrained analysis/synthesis models and codes of the three representative GFVC algorithms are encapsulated in the `GFVC` folder. 
+-	The corresponding interfaced functions regarding the encoder and decoder are defined in `CFTE_Encoder.py`, `CFTE_Decoder.py`, `FOMM_Encoder.py`, `FOMM_Decoder.py`, `FV2V_Encoder.py` and `FV2V_Decoder.py`.
+-	The `arthmetic` and `vtm` folders include the packaged tools regarding the context-adaptive arithmetic coder for feature parameter encoding and the latest VVC software VTM 22.2 for base picture encoding.
+-	The shell file (i.e., `RUN.sh` ) and batch execution code (i.e., `RUN.py` ) are provided to complete the encoding and decoding processes.
+
+The usages can be provided as follows,
+-	Modify the corresponding hyper parameters in `RUN.py`. The specific details have been provided in this `RUN.py`.
 
 
 ## Rate Calculation and Distortion Evaluation

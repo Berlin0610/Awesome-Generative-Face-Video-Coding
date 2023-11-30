@@ -62,6 +62,10 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 # Standardization Efforts
 
 ---
+## <span id="Proposal2024">✔2024 </span> [       «🎯Back To Top»       ](#)
+- (JVET January 20234 [**JVET-AF0234**] **AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression** Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13595)
+  
+---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (MPEG October 2023) [**m64987**] **On VVC-assisted Ultra-low Rate Generative Face Video Coding** Yan Ye, Sean McCarthy, Han Boon Teo, Zhuoyi Lv, Shiqi Wang, Kai Zhang, Marta Karczewicz, Iole Moccagatta [Proposal](https://dms.mpeg.expert/doc_end_user/current_document.php?id=89608&id_meeting=0)
 - (JVET October 2023) [**JVET-AF0234**] **AHG9: Common text for proposed generative face video SEI message** Bolin Chen, Jie Chen, Yan Ye, Shiqi Wang, Sean McCarthy, Peng Yin, Guan-Ming Su, Anustup Kuma Choudhury, Walt Husak, Gary J. Sullivan [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13497)

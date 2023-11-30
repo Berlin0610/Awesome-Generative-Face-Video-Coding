@@ -63,7 +63,7 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 ---
 ## <span id="Proposal2024">✔2024 </span> [       «🎯Back To Top»       ](#)
-- (JVET January 2024) [**JVET-AF0234**] **AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression** Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13595)
+- (JVET January 2024) [**JVET-AG0042**] **AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression** Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13595)
   
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)

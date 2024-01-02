@@ -30,7 +30,7 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 # Technical Summary
 
 ---
-## <span id="Paper2023">✔2023 </span> [       «🎯Back To Top»       ](#)
+## <span id="Paper2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 - (DCC 2024) [**GFVC_Review**] **Generative Face Video Coding Techniques and Standardization Efforts: A Review** Chen Bolin, Chen Jie, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2311.02649.pdf)
 - (DCC 2024) [**GFVC_Translator**] **Enabling Translatability of Generative Face Video Coding: A Unified Face Feature Transcoding Framework** Yin Shanzhi, Chen Bolin, Wang Shiqi, Ye Yan
 

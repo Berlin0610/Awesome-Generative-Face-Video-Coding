@@ -31,7 +31,11 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 ---
 ## <span id="Paper2023">✔2023 </span> [       «🎯Back To Top»       ](#)
-- (arXiv 2023) [**GFVC_Review**] **Generative Face Video Coding Techniques and Standardization Efforts: A Review** Chen Bolin, Chen Jie, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2311.02649.pdf)
+- (DCC 2024) [**GFVC_Review**] **Generative Face Video Coding Techniques and Standardization Efforts: A Review** Chen Bolin, Chen Jie, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2311.02649.pdf)
+- (DCC 2024) [**GFVC_Translator**] **Enabling Translatability of Generative Face Video Coding: A Unified Face Feature Transcoding Framework** Yin Shanzhi, Chen Bolin, Wang Shiqi, Ye Yan
+
+---
+## <span id="Paper2023">✔2023 </span> [       «🎯Back To Top»       ](#)
 - (ICIP 2023) [**RDAC**] **Predictive Coding for Animation-Based Video Compression** Goluck Konuko, Stéphane Lathuilière, Giuseppe Valenzise [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222205)
 - (arXiv 2023) [**IFVC**] **Interactive Face Video Coding: A Generative Compression Framework** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shurun, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2302.09919.pdf)
 - (TCSVT 2023) [**CTTR**] **Compact Temporal Trajectory Representation for Talking Face Video Compression** Chen Bolin, Wang Zhao, Li Binzhe, Wang Shiqi, Ye Yan [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109861)

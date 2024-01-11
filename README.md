@@ -67,7 +67,7 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 ---
 ## <span id="Proposal2024">✔2024 </span> [       «🎯Back To Top»       ](#)
-- (JVET January 2024) [**JVET-AG0042**] **AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression** Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13595)
+- (JVET January 2024) [**JVET-AG0042**] **AHG16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression** Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13595)
 - (JVET January 2024) [**JVET-AG0048**] **AHG16: Interoperability Study on Parameter Translator of Generative Face Video Coding** Shanzhi Yin, Bolin Chen, Jie Chen, Ru-Ling Liao, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13602)
 - (JVET January 2024) [**JVET-AG0087**] **AHG9: On the generative face video SEI message** M. M. Hannuksela, F. Cricri, H. Zhang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13643)
 - (JVET January 2024) [**JVET-AG0088**] **AHG9: Usage of the neural-network post-filter characteristics SEI message to define the generator NN of the generative face video SEI message** M. M. Hannuksela, F. Cricri, H. Zhang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13644)

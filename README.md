@@ -74,6 +74,9 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 - (JVET January 2024) [**JVET-AG0139**] **AHG16: Depthwise separable convolution for generative face video compression** Renjie Zou, Ru-Ling Liao, Bolin Chen, Jie Chen, Yan Ye [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13695)
 - (JVET January 2024) [**JVET-AG0187**] **AHG16: Study text for common test conditions and evaluation procedures for generative face video coding (draft 1)** Sean McCarthy, Peng Yin, Bolin Chen, Yan Ye, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13743)
 -  (JVET January 2024) [**JVET-AG0203**] **AHG9/AHG16: Common text for proposed generative face video SEI message** Jie Chen, Bolin Chen, Yan Ye, Shanzhi Yin, Shiqi Wang, Sean McCarthy, Peng Yin, Guan-Ming Su, Anustup Kuma Choudhury, Walt Husak, Gary J. Sullivan  [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13759)
+-  (JVET January 2024) [**JVET-AG2035**] **	Test conditions and evaluation procedures for generative face video coding** Sean McCarthy, Bolin Chen   [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13920)
+
+
 
 ---
 ## <span id="Proposal2023">✔2023 </span> [       «🎯Back To Top»       ](#)

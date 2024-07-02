@@ -50,6 +50,7 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 - (DCC 2022) [**C3DFD**] **Towards Ultra Low Bit-Rate Digital Human Character Communication via Compact 3D Face Descriptors** Li Binzhe, Chen Bolin, Wang Zhao, Wang Shiqi, Ye Yan [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810765)
 - (DCC 2022) [**CFTE**] **Beyond Keypoint Coding: Temporal Evolution Inference with Compact Feature Representation for Talking Face Video Compression** Chen Bolin, Wang Zhao, Li Binzhe, Lin Rongqun, Wang Shiqi, Ye Yan [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810732)
 - (DCC 2022) [**SNRVC**] **Semantic Neural Rendering-based Video Coding: Towards Ultra-Low Bitrate Video Conferencing** Hu Yujie, Xu Youmin, Chang Jianhui, Zhang Jian [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810784)
+- (MMSP 2022) [**SOM**] **Robust Ultralow Bitrate Video Conferencing with Second Order Motion Coherency** Chen Zhehao, Lu Ming, Chen Hao, Ma Zhan [paper](https://ieeexplore.ieee.org/abstract/document/9949138)
 
 ---
 ## <span id="Paper2021">✔2021 </span> [       «🎯Back To Top»       ](#)

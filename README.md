@@ -31,7 +31,7 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 
 ---
 ## <span id="Paper2024">✔2024 </span> [       «🎯Back To Top»       ](#)
-- (ICIP 2024) [**GFVC_Review**] **Generative Visual Compression: A Review** Chen Bolin, Yin Shanzhi, Chen Peilin, Wang Shiqi, Ye Yan [paper](https://arxiv.org/abs/2402.02140)
+- (ICIP 2024) [**GVC_Review**] **Generative Visual Compression: A Review** Chen Bolin, Yin Shanzhi, Chen Peilin, Wang Shiqi, Ye Yan [paper](https://arxiv.org/abs/2402.02140)
 - (DCC 2024) [**GFVC_Review**] **Generative Face Video Coding Techniques and Standardization Efforts: A Review** Chen Bolin, Chen Jie, Wang Shiqi, Ye Yan [paper](https://arxiv.org/pdf/2311.02649.pdf)
 - (DCC 2024) [**GFVC_Translator**] **Enabling Translatability of Generative Face Video Coding: A Unified Face Feature Transcoding Framework** Yin Shanzhi, Chen Bolin, Wang Shiqi, Ye Yan
 

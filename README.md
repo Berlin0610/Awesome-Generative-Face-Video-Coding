@@ -70,6 +70,15 @@ We optimize the implemention codes of three representative GFVC works, i.e., [FO
 ---
 ## <span id="Proposal2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (JVET July 2024) [**JVET-AI0016**] **JVET AHG report: Generative face video compression (AHG16)** Yan Ye, Han Boon Teo, Zhuoyi Lv, Sean McCarthy, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14392)
+- (JVET July 2024) [**JVET-AI0047**] **AhG16: Higher-resolution Test Sequences and Test Results for Generative Face Video Compression** B. Chen, S. Yin, Y. Ye, R.-L. Liao, J. Chen (Alibaba), S. Wang (CityU) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14286)
+- (JVET July 2024) [**JVET-AI0048**] **AhG16: Improving GFVC Performance with Diverse Training Data** B. Chen, Y. Ye, J. Chen, R.-L. Liao (Alibaba), Z. Zhang, S. Yin, S. Wang (CityU) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14287)
+- (JVET July 2024) [**JVET-AI0137**] **AHG16: Update on Pupil position SEI message for Generative Face Video** F. Ma, A. Trioux, Y. Gao, Y. Yao, F. Yang (Xidian Univ.), F. Xing, Z. Wang (Hisense) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14396)
+- (JVET July 2024) [**JVET-AI0156**] **AHG9/AHG16: On generative face video SEI messages** J. Chen, B. Chen, Y. Ye(Alibaba), S. Yin, S. Wang(CityU), P. Yin, S. McCarthy(Dolby), H.-B. Teo(Panasonic) (Hisense) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14415)
+- (JVET July 2024) [**JVET-AI0193**] **AHG9/AHG16: On no display flag in generative face video SEI message** S. McCarthy, S. Gehlot, G. J. Sullivan, P. Yin (Dolby) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14452)
+- (JVET July 2024) [**JVET-AI0194**] **AHG9/AHG16: On chroma key fusion for the generative face video SEI message** S. Gehlot, G.-M. Su, P. Yin, S. McCarthy, G. J. Sullivan (Dolby) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14453)
+- (JVET July 2024) [**JVET-AI0195**] **AhG9/16: Updates on GFVC common software tools and GFV SEI message** B. Chen, J. Chen, Y. Ye, R.-L. Liao(Alibaba), S.Yin, S. Wang(CityU) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14454)
+
 - (JVET April 2024) [**JVET-AH0016**] **JVET AHG report: Generative face video compression (AHG16)** Yan Ye, Han Boon Teo, Zhuoyi Lv, Sean McCarthy, Shiqi Wang [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=14051)
 - (JVET April 2024) [**JVET-AH0053**] **AHG9/AHG16: Comments on Generative Face Video SEI** S. Deshpande (Sharp) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13935)
 - (JVET April 2024) [**JVET-AH0054**] **AHG16: On the generative face video SEI message** H.-B. Teo, J.-Y. Thong, K. Abe, C.-S. Lim, K. Jayashree (Panasonic) [Proposal](https://jvet-experts.org/doc_end_user/current_document.php?id=13936)
